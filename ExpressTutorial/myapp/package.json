@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myexp.js",
+  "scripts": {
+    "start": "node myexp.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint myexp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  }
+}
